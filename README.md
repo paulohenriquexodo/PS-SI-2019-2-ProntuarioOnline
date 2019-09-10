@@ -1,6 +1,6 @@
 # PS-SI-2019-2-ProntuarioOnline
 
-##Estrutura das pastas
+## Estrutura das pastas
 
 * 1.Gestão
 * 2.Análise 
@@ -21,7 +21,7 @@
 
 
 
-###Siglas:
+### Siglas:
 * MCU - Modelo de Caso de Uso
 * PROT - Protótipos
 * DCAD - Diagrama de Classes de Análise / Domínio
